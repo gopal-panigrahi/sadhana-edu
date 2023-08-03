@@ -60,6 +60,8 @@ npm run dev
    modern web projects.
 3. [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for
    rapid UI development.
+4. [Radix UI](https://www.radix-ui.com/) - A collection of high-quality,
+   accessible, and composable UI components for building modern web interfaces.
 
 ## License
 
